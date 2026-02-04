@@ -69,7 +69,7 @@ DATABASES = {
         'NAME': '3LMC',
         'ENFORCE_SCHEMA': False,
         'CLIENT': {
-            'host': 'mongodb'
+            'host': 'mongodb+srv://nicaanatol_db_user:Itssecret1@cluster0.i4iey7b.mongodb.net/ELMC?retryWrites=true&w=majority'
         }
     }
 }
